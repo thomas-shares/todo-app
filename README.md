@@ -8,9 +8,8 @@ This app is based on code written by Snugug as published here:
 https://codepen.io/Snugug/pen/yOXemR
 
 ## Usage
-The app uses boot, for development just type the following on the command line:
-boot dev
-and then point your browser at http://localhost:3000
+The app uses [boot](http://boot-clj.com/), for development just type the following on the command line:
+```boot dev``` and then point your browser at http://localhost:3000
 
 ## License
 
