@@ -1,7 +1,6 @@
-# Simple ToDo app in ClojureScript and reagent
-This is a simple ToDo app in ClojureScript that uses Reagent. It also stores
-the ToDo list in the local storage of your browser, so the next time you visit
-the page the list will still be there.
+# Simple ToDo app in ClojureScript and Reagent
+This is a simple ToDo app in [ClojureScript](https://github.com/clojure/clojurescript)
+that uses [Reagent](https://reagent-project.github.io/). It also stores the ToDo list in the [local storage](https://github.com/alandipert/storage-atom) of your browser, so the next time you visit the page the list will still be there.
 
 The list is stored in a set, so you can't have the same item twice in the list.
 
@@ -10,7 +9,7 @@ https://codepen.io/Snugug/pen/yOXemR
 
 ## Usage
 The app uses boot, for development just type the following on the command line:
-```boot dev```
+boot dev
 and then point your browser at http://localhost:3000
 
 ## License
